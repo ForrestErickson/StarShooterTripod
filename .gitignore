@@ -1,0 +1,18 @@
+# Created by https://www.toptal.com/developers/gitignore/api/freecad
+# Edit at https://www.toptal.com/developers/gitignore?templates=freecad
+
+### FreeCad ###
+*.pyc
+*.fcstd1
+*.FCStd1
+*.fcstd2
+*.FCStd2
+
+# End of https://www.toptal.com/developers/gitignore/api/freecad
+
+
+14-2686-40_PST_20211008.pdf
+
+### 3D print files ###
+*.3mf
+
